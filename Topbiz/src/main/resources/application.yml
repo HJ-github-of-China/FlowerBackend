@@ -10,7 +10,7 @@ spring:
     # TODO 可以修改成云服务
   data:
     redis:
-      host: localhost
+      host: 1.95.123.65
       port: 6379
-      password: 123456
+      password: Huawei666
       database: 2
